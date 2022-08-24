@@ -12,7 +12,7 @@
 ----
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=5550&color=F749F3&width=500&height=60&lines=Hi+Friends+...;MUTHU+MD+...; Whatsapp+User+Bot+MD+BOT+...;Create+By+%3A-++Thathsara+Sumuditha+...)](https://git.io/typing-svg)
+
 
 
 
